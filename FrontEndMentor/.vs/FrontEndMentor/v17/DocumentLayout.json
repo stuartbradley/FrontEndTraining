@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|d:\\react training\\frontendtraining\\frontendmentor\\frontendmentor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|solutionrelative:frontendmentor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|d:\\react training\\frontendtraining\\frontendmentor\\frontendmentor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|solutionrelative:frontendmentor.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|d:\\react training\\frontendtraining\\frontendmentor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|d:\\react training\\frontendtraining\\frontendmentor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68253826-10F5-4038-82AA-23393DACDFF8}|FrontEndMentor.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrontEndMentor",
+              "DocumentMoniker": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
+              "RelativeDocumentMoniker": "FrontEndMentor.csproj",
+              "ToolTip": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
+              "RelativeToolTip": "FrontEndMentor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T10:52:46.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrontEndMentor",
+              "DocumentMoniker": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
+              "RelativeDocumentMoniker": "FrontEndMentor.csproj",
+              "ToolTip": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
+              "RelativeToolTip": "FrontEndMentor.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T10:51:18.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-16T10:49:57.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-16T10:47:49.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

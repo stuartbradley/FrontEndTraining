@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\obj\\Debug\\net8.0\\compressed\\kolpto3z6m.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FrontEndMentor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FrontEndMentor.props",
+      "PackagePath": "build\\FrontEndMentor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FrontEndMentor.props",
+      "PackagePath": "buildMultiTargeting\\FrontEndMentor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FrontEndMentor.props",
+      "PackagePath": "buildTransitive\\FrontEndMentor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
