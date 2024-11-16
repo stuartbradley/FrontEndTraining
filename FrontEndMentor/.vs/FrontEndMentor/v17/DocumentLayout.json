@@ -43,15 +43,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FrontEndMentor",
+              "Title": "FrontEndMentor.csproj",
               "DocumentMoniker": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
               "RelativeDocumentMoniker": "FrontEndMentor.csproj",
               "ToolTip": "D:\\React training\\FrontEndTraining\\FrontEndMentor\\FrontEndMentor.csproj",
               "RelativeToolTip": "FrontEndMentor.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-16T10:51:18.921Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T10:51:18.921Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "wwwroot\\index.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-11-16T10:49:57.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T10:49:57.116Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-16T10:47:49.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T10:47:49.169Z"
             }
           ]
         }
